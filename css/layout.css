@@ -223,8 +223,7 @@ ul#nav li.current a { color: #F06000; }
    position: relative;
    margin-top: 2em;
    width: 150px;
-   height: 250px;
-   border-radius: 20%;
+   height: 200px;
 }
 #about .contact-details { width: 41.66667%; }
 #about .download {
@@ -655,7 +654,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
+   background: #1F1F1F url(/testimonials-bg.jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
