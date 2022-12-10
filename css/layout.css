@@ -35,7 +35,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background-color:rgb(71, 1, 71);
+   background-color:rgb(4, 184, 234);
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -217,7 +217,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: #fdfafa;
 }
 #about .profile-pic {
    position: relative;
