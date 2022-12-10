@@ -35,8 +35,9 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background:#0F9095 url(/IMG_8643.jpg) no-repeat;
-   background-size: cover !important;
+   background:lavender url('/IMG_8643.jpg') no-repeat;
+/*    background-repeat: no-repeat;
+ */   background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
    overflow: hidden;
