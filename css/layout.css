@@ -201,23 +201,23 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #6221fb;
+   background: #9466fe;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
 }
 
-#about a, #about a:visited  { color: rgb(125, 2, 92); }
+#about a, #about a:visited  { color: rgb(250, 15, 188); }
 #about a:hover, #about a:focus { color: #11ABB0; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
-   color: #fff;
+   color: rgb(103, 1, 1);
    margin-bottom: 12px;
 }
 #about p {
    line-height: 30px;
-   color: #fdfafa;
+   color: #700101;
 }
 #about .profile-pic {
    position: relative;
@@ -426,7 +426,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #ebeeee;
+   background: #19fafa;
    padding-top: 90px;
    padding-bottom: 60px;
 }
@@ -654,7 +654,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #fb7676 url(/testimonials-bg.jpg) no-repeat center center;
+   background: #fb76de url(/testimonials-bg.jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
@@ -684,7 +684,7 @@ call-to-action .button {
    line-height: 72px;
    text-align: left;
    float: left;
-   color: #fff;
+   color: rgb(7, 0, 73);
 }
 
 /*	Blockquotes */
