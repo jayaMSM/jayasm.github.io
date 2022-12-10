@@ -35,8 +35,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background-image: url(/IMG_8643.jpg);
-   background-repeat: no-repeat;
+   background-color:plum;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -120,7 +119,7 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #11ABB0; }
+header .scrolldown a:hover { color: #17e5ec; }
 
 /* primary navigation
 --------------------------------------------------------------------- */
