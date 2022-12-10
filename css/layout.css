@@ -22,7 +22,7 @@
 /* a. General Styles
 /* ------------------------------------------------------------------ */
 
-body { background: #1860fc;
+body { background: #abc4f9;
    font: 16px/24px 'librebaskerville-italic', serif;
  }
 
@@ -35,7 +35,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background-color:rgb(4, 184, 234);
+   background-color:rgb(120, 150, 3);
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -61,14 +61,14 @@ header .banner {
 header .banner-text { width: 100%; }
 header .banner-text h1 {
    font: 90px/1.1em 'opensans-bold', sans-serif;
-   color: rgb(19, 1, 98);
+   color: rgb(250, 98, 3);
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
 }
 header .banner-text h3 {
    font: 18px/1.9em 'librebaskerville-regular', serif;
-   color: #0b0263;
+   color: #f85903;
    margin: 0 auto;
    width: 70%;
    text-shadow: 0px 1px 2px rgba(129, 2, 2, 0.5);
@@ -201,7 +201,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #004454;
+   background: #190054;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
