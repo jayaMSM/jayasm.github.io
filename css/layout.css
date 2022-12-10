@@ -75,7 +75,7 @@ header .banner-text h3 {
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
-   color: rgb(1, 1, 118);
+   color: rgb(40, 154, 2);
 }
 header .banner-text hr {
    width: 60%;
@@ -201,7 +201,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #190054;
+   background: #6221fb;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -654,7 +654,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(/testimonials-bg.jpg) no-repeat center center;
+   background: #fb7676 url(/testimonials-bg.jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
@@ -942,7 +942,7 @@ call-to-action .button {
 footer {
    padding-top: 48px;
    margin-bottom: 48px;
-   color: #303030;
+   color: #fd6363;
    font-size: 14px;
    text-align: center;
    position: relative;
@@ -969,7 +969,7 @@ footer .copyright li:before {
     content: "\2022";
     padding-left: 10px;
     padding-right: 10px;
-    color: #095153;
+    color: #72f4f9;
 }
 footer .copyright  li:first-child:before {
     display: none;
