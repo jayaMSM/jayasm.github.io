@@ -22,7 +22,7 @@
 /* a. General Styles
 /* ------------------------------------------------------------------ */
 
-body { background: #0f0f0f;
+body { background: #1860fc;
    font: 16px/24px 'librebaskerville-italic', serif;
  }
 
@@ -35,7 +35,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background-color:plum;
+   background-color:rgb(71, 1, 71);
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -61,7 +61,7 @@ header .banner {
 header .banner-text { width: 100%; }
 header .banner-text h1 {
    font: 90px/1.1em 'opensans-bold', sans-serif;
-   color: rgb(38, 5, 188);
+   color: rgb(19, 1, 98);
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
@@ -71,7 +71,7 @@ header .banner-text h3 {
    color: #0b0263;
    margin: 0 auto;
    width: 70%;
-   text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);
+   text-shadow: 0px 1px 2px rgba(129, 2, 2, 0.5);
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
@@ -80,7 +80,7 @@ header .banner-text h3 a {
 header .banner-text hr {
    width: 60%;
    margin: 18px auto 24px auto;
-   border-color: #2F2D2E;
+   border-color: #fa67b1;
    border-color: rgba(150, 150, 150, .1);
 }
 
@@ -96,8 +96,8 @@ header .social li {
    margin: 0 15px;
    padding: 0;
 }
-header .social li a { color: #fff; }
-header .social li a:hover { color: #11ABB0; }
+header .social li a { color: rgb(171, 2, 39); }
+header .social li a:hover { color: #013234; }
 
 /* scrolldown link */
 header .scrolldown a {
@@ -201,7 +201,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #2B2B2B;
+   background: #004454;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
