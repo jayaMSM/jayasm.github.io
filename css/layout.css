@@ -250,7 +250,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: rgb(5, 1, 225);
+   background: powderblue;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
@@ -280,7 +280,7 @@ ul#nav li.current a { color: #F06000; }
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
 }
-#resume .
+#resume
 {
    font: 16px/24px 'librebaskerville-italic', serif;
    color: #013563;
