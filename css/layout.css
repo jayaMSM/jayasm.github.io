@@ -190,8 +190,8 @@ ul#nav li.current a { color: #F06000; }
 
  } */
  .image{
-   width:30px;
-   height:30px;
+   width:50px;
+   height:50px;
    border-radius: 100%;
    display: inline;
  }
@@ -436,7 +436,7 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 1px;
    text-align: center;
    margin-bottom: 48px;
-   color: #95A3A3;
+   color: #f8fcfc;
 }
 
 /* Portfolio Content */
@@ -510,7 +510,7 @@ ul#nav li.current a { color: #F06000; }
 }
 .portfolio-item .portfolio-item-meta p {
    font: 12px/18px 'opensans-light', sans-serif;
-   color: #c6c7c7;
+   color: #fbfdfd;
    margin-bottom: 0;
 }
 
@@ -806,7 +806,7 @@ call-to-action .button {
    background: #191919;
    padding-top: 96px;
    padding-bottom: 102px;
-   color: #636363;
+   color: #fffdfd;
 }
 #contact .section-head { margin-bottom: 42px; }
 
