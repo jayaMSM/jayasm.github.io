@@ -654,7 +654,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #fb76de url(/testimonials-bg.jpg) no-repeat center center;
+   background: #013563 url(/testimonials-bg.jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
@@ -672,7 +672,7 @@ call-to-action .button {
    font: 18px/24px 'opensans-bold', sans-serif;   
    text-transform: uppercase;
    letter-spacing: 3px;
-   color: rgb(87, 1, 14);
+   color: rgb(248, 247, 247);
 }
 #testimonials h1 span { display: none; }
 #testimonials .header-col { padding-top: 9px; }
@@ -684,7 +684,7 @@ call-to-action .button {
    line-height: 72px;
    text-align: left;
    float: left;
-   color: rgb(133, 1, 28);
+   color: rgb(249, 245, 246);
 }
 
 /*	Blockquotes */
@@ -700,14 +700,14 @@ call-to-action .button {
    padding: 0;
    font-size: 24px;
    line-height: 48px;
-   color: rgb(127, 0, 4);
+   color: rgb(250, 248, 248);
 }
 #testimonials blockquote cite {
    display: block;
    font-size: 12px;
    font-style: normal;
    line-height: 18px;
-   color: rgb(137, 1, 12);
+   color: rgb(247, 242, 243);
 }
 #testimonials blockquote cite:before { content: "\2014 \0020"; }
 #testimonials blockquote cite a,
