@@ -35,7 +35,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background-color:rgb(242, 134, 252);
+   background-color: #A7F4F6;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -54,7 +54,7 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 30px;
    text-align: center;
 }
 
@@ -201,23 +201,23 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #9466fe;
+   background: #050407;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
 }
 
-#about a, #about a:visited  { color: rgb(250, 15, 188); }
+#about a, #about a:visited  { color: rgb(12, 11, 12); }
 #about a:hover, #about a:focus { color: #11ABB0; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
-   color: rgb(103, 1, 1);
+   color: rgb(163, 50, 1);
    margin-bottom: 12px;
 }
 #about p {
    line-height: 30px;
-   color: #700101;
+   color:  #A7F4F6;
 }
 #about .profile-pic {
    position: relative;
@@ -233,7 +233,7 @@ ul#nav li.current a { color: #F06000; }
 #about .main-col { padding-right: 5%; }
 #about .download .button {
    margin-top: 6px;
-   background: #444;
+   background:  #A7F4F6;
 }
 #about .download .button:hover {
    background: #fff;
@@ -672,7 +672,7 @@ call-to-action .button {
    font: 18px/24px 'opensans-bold', sans-serif;   
    text-transform: uppercase;
    letter-spacing: 3px;
-   color: rgb(7, 1, 87);
+   color: rgb(87, 1, 14);
 }
 #testimonials h1 span { display: none; }
 #testimonials .header-col { padding-top: 9px; }
@@ -684,7 +684,7 @@ call-to-action .button {
    line-height: 72px;
    text-align: left;
    float: left;
-   color: rgb(7, 0, 73);
+   color: rgb(133, 1, 28);
 }
 
 /*	Blockquotes */
@@ -700,14 +700,14 @@ call-to-action .button {
    padding: 0;
    font-size: 24px;
    line-height: 48px;
-   color: rgb(7, 0, 73);
+   color: rgb(127, 0, 4);
 }
 #testimonials blockquote cite {
    display: block;
    font-size: 12px;
    font-style: normal;
    line-height: 18px;
-   color: rgb(7, 0, 73);
+   color: rgb(137, 1, 12);
 }
 #testimonials blockquote cite:before { content: "\2014 \0020"; }
 #testimonials blockquote cite a,
